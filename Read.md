@@ -1,6 +1,6 @@
 # Project Title
 ```
-Online-Assignment-Plagiarism-Checker
+AI-Powered-Plagiarism-Checker
 
 Author(s): Snehal Wath
 Affiliation:Suryodaya college / RTMNU
@@ -8,19 +8,16 @@ Date: 27/03/2026
 ```
 ## Abstract
 ```
-This project is about checking plagiarism in online assignments. Plagiarism means copying content from other sources without permission.
-We use machine learning and text comparison methods to find how much content is copied between two documents.
-The system compares the given assignment with other sources and calculates similarity. Based on that, it tells whether the content is original or copied.
-The main goal of this project is to help students and teachers maintain originality in assignments and improve academic honesty.
+This project is an AI Powered Plagiarism Checker developed using React and Flask. The system allows users to upload documents and analyze their content for plagiarism and originality.
+The application provides plagiarism percentage, originality score, writing analysis, research assessment, and detailed reports through an interactive dashboard.
+The main objective of this project is to provide a simple and user-friendly platform for document analysis and plagiarism detection.
 ```
 
 ## Introduction
 ```
-In colleges and schools, students submit assignments regularly. Sometimes students copy content from the internet or from other students.
-This is called plagiarism and it is not allowed in academics. It affects learning and honesty.
-So, there is a need for a system that can automatically check whether an assignment is copied or not.
-In this project, we build an online plagiarism checker using machine learning and text analysis techniques.
-This system helps teachers and students ensure that the content is original and fair.
+In today's digital world, large amounts of content are created and shared online. Verifying the originality of documents has become an important task.
+Manually checking content for similarity is time-consuming and difficult. Therefore, an automated plagiarism detection system can help analyze documents quickly and efficiently.
+This project provides a web-based platform where users can upload documents and receive detailed analysis regarding content originality, writing quality, and document structure.
 ```
 
 ##Literature review
@@ -33,64 +30,88 @@ This project is inspired by such tools and uses simple techniques to detect copi
 ```
 ## Methodology
 ```
-First, we take the input assignment text from the user.
-Then we preprocess the text by removing stop words, punctuation, and converting it into a simple format.
-After that, we compare the text with other documents or a database of existing content.
-We use similarity methods like cosine similarity or NLP techniques to check how much text matches.
-Finally, the system gives a similarity score. Based on the score, it tells whether the assignment is original or plagiarized.
+The project follows the following workflow:
+
+User uploads a document.
+The text content is extracted from the document.
+The content is processed and analyzed.
+Similarity and originality scores are calculated.
+Writing quality and document structure are evaluated.
+Results are displayed on an interactive dashboard.
+A detailed report is generated for the user.
 ```
 
 ## Implementation
 ```
-Programming Language: Python  
-Libraries Used:  
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- NLTK / SpaCy  
-- TF-IDF Vectorizer  
-Tools Used:  
-- Jupyter Notebook / VS Code  
-Steps followed:  
-- Take input text from user  
-- Preprocess the text  
-- Convert text into numerical form using TF-IDF  
-- Compare with existing documents  
-- Calculate similarity score  
-- Display result  
+Frontend
+React.js
+HTML
+CSS
+JavaScript
+
+Backend
+Flask
+Python
+Libraries Used
+Pandas
+NumPy
+Scikit-learn
+NLTK
+Flask-CORS
+Tools Used
+Visual Studio Code
+GitHub
+Node.js
+npm
+
+Features Implemented
+Document Upload
+Plagiarism Detection
+Originality Score
+Writing Analysis
+Research Analysis
+Detailed Report Generation
+Interactive Dashboard
+Responsive User Interface
+How It Works Section
 ```
 
 ## Result and Discussion
 ```
-The system successfully detects plagiarism in assignments.
-It gives a similarity percentage that shows how much content is copied.
-If the similarity is high, the assignment may be plagiarized.
-This helps teachers easily identify copied work.
-The system saves time and improves accuracy compared to manual checking.
+The system successfully analyzes uploaded documents and provides useful insights regarding content originality and quality.
+
+The dashboard displays:
+
+Plagiarism Percentage
+Originality Score
+Writing Analysis
+Research Assessment
+Detailed Report
+
+The generated results help users understand the overall quality of their documents through a clean and interactive interface.
 ```
 ## Limitation
 ```
-1.It may not detect very smart paraphrased content  
-2.Accuracy depends on the dataset used  
-3.Requires a good database of existing content  
-4.Sometimes it may give false results  
-5.Complex sentences may reduce accuracy  
+1. Accuracy depends on the text analysis techniques used.
+2. Highly paraphrased content may not always be detected.
+3. Large documents may require additional processing time.
+4. Results depend on the available content used for comparison.
+5. Advanced semantic plagiarism detection can be further improved. 
 ```
 
 ## Future Scope
 ```
-1.Easy to use and automatic checking system  
-2.Can detect copied content quickly  
-3.Can be used in schools and colleges  
-4.Can be improved with advanced AI models  
-5.Can be developed into a web or mobile application  
-6.Can support multiple file formats like PDF and Word  
+1. Advanced AI-based plagiarism detection.
+2. Multi-language document support.
+3. Cloud deployment.
+4. Real-time document collaboration.
+5. Mobile application development.
+6. Improved semantic similarity analysis.
+7. User account and report management.
 ```
 
 ## Conclusion
 ```
-This project shows how plagiarism can be detected using simple machine learning techniques.
-It helps maintain originality in assignments and improves academic honesty.
-The system is fast and easy to use.
-In future, it can be improved to detect more complex plagiarism and be used in real-time applications.
+The AI Powered Plagiarism Checker is a web-based document analysis platform that helps users evaluate the originality and quality of their documents.
+The project combines plagiarism detection, writing analysis, research assessment, and report generation into a single system. It demonstrates the use of modern web technologies and text analysis techniques to create an efficient and user-friendly plagiarism checking platform.
 ```
