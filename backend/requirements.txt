@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+python-docx
+PyPDF2
+duckduckgo-search
+gunicorn
