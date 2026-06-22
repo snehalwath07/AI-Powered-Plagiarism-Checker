@@ -2,11 +2,13 @@
 Check out the deployed version of the project here:
 🔗(https://ai-powered-plagiarism-checker-dk74.vercel.app/)
 
-# Project Title
-AI-Powered-Plagiarism-Checker
+
+
+
+# AI-Powered-Plagiarism-Checker
 ```
 Author(s): Snehal Wath
-Affiliation:Suryodaya college / RTMNU
+Affiliation:RTMNU
 Date: 27/03/2026
 ```
 ## Abstract
