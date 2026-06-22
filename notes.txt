@@ -1,9 +1,9 @@
-Step 1: Open the Website
+#Step 1: Open the Website
 Open the plagiarism checker using the following link:
 https://ai-powered-plagiarism-checker-dk74.vercel.app/
 You will be redirected to the homepage of the application.
 
-Step 2: Explore the Homepage
+#Step 2: Explore the Homepage
 
 The homepage contains:
 
@@ -15,13 +15,13 @@ How It Works Section
 
 Read the information to understand the purpose of the platform.
 
-Step 3: Start Analysis
+#Step 3: Start Analysis
 
 Click the "Start Checking" button.
 
 You will be taken to the document analysis section.
 
-Step 4: Choose Analysis Method
+#Step 4: Choose Analysis Method
 
 Users can analyze content in two ways:
 
@@ -60,7 +60,7 @@ Prepare the final report
 
 A processing animation will appear while the analysis is running.
 
-Step 7: View Results
+#Step 7: View Results
 
 After processing is complete, the dashboard displays:
 
@@ -80,7 +80,7 @@ Grammar Score
 
 Provides an estimate of writing quality.
 
-Step 8: Explore Analysis Tabs
+#Step 8: Explore Analysis Tabs
 
 The platform provides multiple analysis sections.
 
