@@ -1,7 +1,6 @@
 ## Live Demo
 Check out the deployed version of the project here:
-🔗(https://ai-powered-plagiarism-checker-dk74.vercel.app/)
-
+🔗https://ai-powered-plagiarism-checker-dk74.vercel.app/
 
 
 
