@@ -1,0 +1,159 @@
+Step 1: Open the Website
+Open the plagiarism checker using the following link:
+https://ai-powered-plagiarism-checker-dk74.vercel.app/
+You will be redirected to the homepage of the application.
+
+Step 2: Explore the Homepage
+
+The homepage contains:
+
+Navigation Bar
+Hero Section
+Start Checking Button
+Feature Overview
+How It Works Section
+
+Read the information to understand the purpose of the platform.
+
+Step 3: Start Analysis
+
+Click the "Start Checking" button.
+
+You will be taken to the document analysis section.
+
+Step 4: Choose Analysis Method
+
+Users can analyze content in two ways:
+
+Option A: Text Input
+Select the Text Input tab.
+Paste or type your content into the text box.
+Verify the text is entered correctly.
+Option B: File Upload
+Select the File Upload tab.
+Click the upload area.
+Choose a supported file from your device.
+
+Supported formats:
+
+TXT
+PDF
+DOCX
+Step 5: Upload Document
+
+After selecting a file:
+
+Wait until the file name appears.
+Verify the correct file has been selected.
+Ensure the file is not empty.
+Step 6: Run Analysis
+
+Click the "Check Plagiarism" button.
+
+The system will:
+
+Read the document
+Extract text
+Analyze content
+Generate scores
+Prepare the final report
+
+A processing animation will appear while the analysis is running.
+
+Step 7: View Results
+
+After processing is complete, the dashboard displays:
+
+Plagiarism Score
+
+Shows the percentage of potentially copied content.
+
+Originality Score
+
+Shows how unique the content appears.
+
+AI Probability
+
+Indicates the likelihood of AI-generated content.
+
+Grammar Score
+
+Provides an estimate of writing quality.
+
+Step 8: Explore Analysis Tabs
+
+The platform provides multiple analysis sections.
+
+Document Statistics
+
+Displays:
+
+Word Count
+Character Count
+Sentence Count
+Paragraph Count
+Estimated Reading Time
+Document Preview
+
+Shows the extracted content from the uploaded document.
+
+Grammar Analysis
+
+Provides writing quality information.
+
+AI Detection
+
+Displays AI-generated content probability.
+
+Research Assessment
+
+Provides additional document insights.
+
+Step 9: Generate Detailed Report
+
+Click:
+
+"Generate Full AI Report"
+
+The report contains:
+
+Plagiarism Analysis
+Originality Analysis
+Grammar Evaluation
+AI Content Assessment
+Document Statistics
+Step 10: Review Results
+
+Carefully review:
+
+Plagiarism Percentage
+Originality Percentage
+AI Probability
+Grammar Score
+
+Use the report to improve document quality and originality.
+
+How It Works
+Step 1
+
+Upload or paste content.
+
+Step 2
+
+The system extracts and processes text.
+
+Step 3
+
+AI-powered analysis generates detailed scores and reports.
+
+Supported Browsers
+Google Chrome
+Microsoft Edge
+Mozilla Firefox
+Brave Browser
+Tips for Best Results
+Upload clear and readable documents.
+Use supported file formats only.
+Verify content before analysis.
+Wait for processing to complete.
+Review the detailed report for complete insights.
