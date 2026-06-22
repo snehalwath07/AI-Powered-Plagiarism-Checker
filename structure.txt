@@ -1,0 +1,63 @@
+AI-Powered-Plagiarism-Checker/
+│
+├── backend/
+│   │
+│   ├── uploads/
+│   ├── reports/
+│   │
+│   ├── app.py
+│   ├── requirements.txt
+│   └── runtime.txt
+│
+├── public/
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── manifest.json
+│   ├── robots.txt
+│   └── how-it-works.png
+│
+├── src/
+│   │
+│   ├── components/
+│   │   │
+│   │   ├── AIDetector.js
+│   │   ├── AnalysisWorkspace.js
+│   │   ├── AnalyticsCards.js
+│   │   ├── DetailedReport.js
+│   │   ├── DocumentPreview.js
+│   │   ├── DocumentStats.js
+│   │   ├── FeaturesSection.js
+│   │   ├── Footer.js
+│   │   ├── GrammarChecker.js
+│   │   ├── HeroSection.js
+│   │   ├── HighlightedText.js
+│   │   ├── HowItWorks.js
+│   │   ├── Navbar.js
+│   │   ├── ProcessingLoader.js
+│   │   ├── RemovePlagiarism.js
+│   │   ├── ReportAnalytics.js
+│   │   ├── ResultsSection.js
+│   │   ├── ScanSettings.js
+│   │   ├── Sidebar.js
+│   │   ├── SourceBreakdown.js
+│   │   ├── StatsSection.js
+│   │   ├── TextEditor.js
+│   │   ├── ToolTabs.js
+│   │   ├── TopNavbar.js
+│   │   ├── UploadSection.js
+│   │   └── WorkspaceLayout.js
+│   │
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+│
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── README.md
+│
+└── screenshots/
+    ├── home-page.png
+    ├── upload-section.png
+    ├── analysis-results.png
+    └── detailed-report.png
