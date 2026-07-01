@@ -1,107 +1,134 @@
 # 📸 Gallery – AI-Powered Plagiarism Checker
 
-This gallery showcases the major screens of the **AI-Powered Plagiarism Checker** web application. The screenshots demonstrate the user interface, document analysis workflow, and generated results.
-
----
-
 ## 1. Home Page
 
+![Home Page](screenshots/home.png)
+
 **Description:**
-The landing page of the application introduces the AI-Powered Plagiarism Checker with a modern user interface. It provides an overview of the platform and allows users to start document analysis.
+The landing page of the AI-Powered Plagiarism Checker introduces the application and allows users to start document analysis.
+
 ---
 
 ## 2. Features Section
 
+![Features](screenshots/features.png)
+
 **Description:**
-Displays the core functionalities of the application, including Plagiarism Checker, Writing Analysis, AI Content Analysis, and Research Paper Analysis.
+Displays the main features including Plagiarism Checker, Writing Analysis, AI Content Analysis, and Research Paper Analysis.
 
 ---
 
 ## 3. How It Works
 
+![How It Works](screenshots/how-it-works.png)
+
 **Description:**
-Illustrates the complete workflow of the application, showing how users upload documents, the backend processes them, and the analysis results are generated.
+Illustrates the complete workflow of the application.
 
 ---
 
 ## 4. Upload Document
 
+![Upload Document](screenshots/upload.png)
+
 **Description:**
-Allows users to upload documents in **TXT**, **PDF**, or **DOCX** format for plagiarism and document analysis.
+Allows users to upload TXT, PDF, and DOCX files.
 
 ---
 
 ## 5. Text Input
 
+![Text Input](screenshots/text-input.png)
+
 **Description:**
-Provides an editor where users can directly paste text for instant plagiarism checking without uploading a document.
+Users can directly paste text for analysis.
 
 ---
 
 ## 6. Processing Screen
 
+![Processing](screenshots/processing.png)
+
 **Description:**
-Displays a loading animation while the backend extracts document content and performs analysis.
+Displays the loading animation while analysis is performed.
 
 ---
 
-## 7. Plagiarism Analysis Dashboard
+## 7. Plagiarism Analysis
+
+![Plagiarism Analysis](screenshots/plagiarism-analysis.png)
 
 **Description:**
-Shows the plagiarism score and originality score generated after document processing.
+Displays plagiarism and originality scores.
 
 ---
 
 ## 8. Writing Analysis
 
+![Writing Analysis](screenshots/writing-analysis.png)
+
 **Description:**
-Displays writing-related insights based on the uploaded document to help users evaluate content quality.
+Shows writing quality analysis.
 
 ---
 
 ## 9. AI Content Analysis
 
+![AI Content Analysis](screenshots/ai-content-analysis.png)
+
 **Description:**
-Analyzes the uploaded document and estimates whether the content appears to be AI-generated or human-written.
+Displays AI-generated content analysis.
 
 ---
 
 ## 10. Research Paper Analysis
 
+![Research Paper Analysis](screenshots/research-paper-analysis.png)
+
 **Description:**
-Provides research-paper-specific insights and document evaluation through the dedicated analysis module.
+Shows research paper evaluation.
 
 ---
 
 ## 11. Document Statistics
 
+![Document Statistics](screenshots/document-stats.png)
+
 **Description:**
-Displays useful document statistics such as word count, character count, sentence count, paragraph count, and estimated reading time.
+Displays word count, sentence count, paragraph count, reading time, and character count.
 
 ---
 
 ## 12. Source Breakdown
 
+![Source Breakdown](screenshots/source-breakdown.png)
+
 **Description:**
-Presents the breakdown of document analysis and summarizes the processed information in an organized format.
+Summarizes document analysis results.
 
 ---
 
 ## 13. Detailed Report
 
+![Detailed Report](screenshots/detailed-report.png)
+
 **Description:**
-Displays a comprehensive report containing plagiarism results, document statistics, AI content analysis, and writing analysis in a single view.
+Provides a complete report of the analysis.
 
 ---
 
 ## 14. Responsive Interface
 
+![Responsive Interface](screenshots/responsive.png)
+
 **Description:**
-Demonstrates the responsive design of the application, ensuring a smooth user experience across different screen sizes and devices.
+Shows the responsive design across different devices.
 
 ---
 
 ## 15. Complete Workflow
 
+![Workflow](screenshots/workflow.png)
+
 **Description:**
-Shows the complete end-to-end workflow of the AI-Powered Plagiarism Checker, from document upload to final analysis report generation.
+Shows the complete process from document upload to final analysis.
