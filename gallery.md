@@ -9,7 +9,7 @@ This gallery showcases the complete workflow of the **AI-Powered Plagiarism Chec
 ### Image File
 
 ```text
-screenshots/step 1.png
+screenshots/step-1.png
 ```
 
 ### Description
