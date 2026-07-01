@@ -8,7 +8,6 @@ This gallery showcases the major screens of the **AI-Powered Plagiarism Checker*
 
 **Description:**
 The landing page of the application introduces the AI-Powered Plagiarism Checker with a modern user interface. It provides an overview of the platform and allows users to start document analysis.
-screenshots/step-1.png
 ---
 
 ## 2. Features Section
