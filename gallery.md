@@ -16,7 +16,7 @@ screenshots/step-1.png
 
 This is the landing page of the AI-Powered Plagiarism Checker. Users can access the application through their web browser and click **Start Checking Now** to begin document analysis.
 
-![Step 1](screenshots/step%201.png)
+![Step 1](screenshots/step-1.png)
 
 ---
 
